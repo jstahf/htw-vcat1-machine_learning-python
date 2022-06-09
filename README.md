@@ -1,8 +1,8 @@
 # htw-vcat1-machine_learning-python
 First steps into Machine Learning using Python and Anaconda + Jupyter Notebook
 
-Uebung 1: Intoduction</br>
-Uebung 2: Approxmating a function using random coefficients
-Uebung 3: Normalizing and Approximation
-Uebung 4: Evolution Strategy
-Uebung 5: Linear Regression
+<b>Uebung 1:</b> Intoduction</br>
+<b>Uebung 2:</b> Approxmating a function using random coefficients</br>
+<b>Uebung 3:</b> Normalizing and Approximation</br>
+<b>Uebung 4:</b> Evolution Strategy</br>
+<b>Uebung 5:</b> Linear Regression</br>
